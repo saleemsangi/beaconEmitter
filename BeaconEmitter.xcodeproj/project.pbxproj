@@ -405,7 +405,7 @@
 				INFOPLIST_FILE = BeaconEmitter/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.capitalone.BeaconEmitter;
+				PRODUCT_BUNDLE_IDENTIFIER = com.saleemsangi.BeaconEmitter;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -417,7 +417,7 @@
 				INFOPLIST_FILE = BeaconEmitter/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.capitalone.BeaconEmitter;
+				PRODUCT_BUNDLE_IDENTIFIER = com.saleemsangi.BeaconEmitter;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
